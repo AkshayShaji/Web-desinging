@@ -1,0 +1,140 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.main{
+    background-image: url(https://tesla-cdn.thron.com/delivery/public/image/tesla/03e533bf-8b1d-463f-9813-9a597aafb280/bvlatuR/std/4096x2560/M3-Homepage-Desktop-LHD);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.hero{
+    background-image: url(https://tesla-cdn.thron.com/delivery/public/image/tesla/8e2df1b9-a4bf-4eb9-beec-2cf5cc77fca0/bvlatuR/std/2880x2400/Desktop-ModelY?quality=70);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.new{
+    background-image: url(https://tesla-cdn.thron.com/delivery/public/image/tesla/2056ad87-6a25-403c-89f3-35fe291bdb65/bvlatuR/std/2880x1800/Homepage-Model-S-Desktop-LHD?quality=auto-medium&amp;format=auto);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.model{
+    background-image: url(https://tesla-cdn.thron.com/delivery/public/image/tesla/17ecbd59-0e37-4add-8aca-f905d12c02e4/bvlatuR/std/2880x1800/Homepage-Model-X-Desktop-LHD?quality=auto-medium&amp;format=auto);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.solar{
+    background-image: url(https://tesla-cdn.thron.com/delivery/public/image/tesla/16b04537-a4be-4bf9-8637-86862a858da8/bvlatuR/std/2880x1800/_25-HP-SolarPanels-D);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.roof{
+    background-image: url(https://tesla-cdn.thron.com/delivery/public/image/tesla/4a41ec0e-7316-46a8-8ce9-e2f195ba644d/bvlatuR/std/2880x1800/Homepage-SolarRoof-Desktop-Global?quality=auto-medium&format=auto);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.accessories{
+    background-image: url(https://tesla-cdn.thron.com/delivery/public/image/tesla/dd739764-bcaa-4263-9488-8c73bc9fb046/bvlatuR/std/0x0/dd739764-bcaa-4263-9488-8c73bc9fb046);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 2vw;
+    padding-top: 5px;
+    padding-right: 5vw;
+}
+.logo{
+    margin-left: 18px;
+    width: 12%;
+    margin-top: 18px;
+}
+nav ul li{
+    display: inline-block;
+    list-style-type: none;
+    padding: 10px 22px;
+    align-items: center;
+    margin-top: 18px;
+}
+nav ul li a{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    letter-spacing: 1px;
+}
+.btn{
+    color: black;
+    font-weight: bold;
+    margin-right: 18px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    padding: 10px;
+    margin-top: 18px;
+}
+.content{
+    position: absolute;
+    margin-top: 7%;
+    margin-left: 40%;
+}
+.sentence{
+    color: black;
+}
+.content h1{
+    font-size: 50px;
+}
+.link{
+    position: absolute;
+    margin-top: 35%;
+    margin-left: 30%;
+}
+.customer{
+    padding: 10px 80px;
+    color: white;
+    background-color: rgba(37,37,37);
+    font-weight: bold;
+    text-decoration: none;
+}
+.drive{
+    padding: 10px 80px;
+    color: rgba(37,37,37);
+    background-color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+.linkage{
+    position: absolute;
+    margin-top: 35%;
+    margin-left: 42%;
+}
+.shop{
+    padding: 10px 80px;
+    color: white;
+    background-color: rgba(37,37,37);
+    font-weight: bold;
+    text-decoration: none;
+}
+.footer{
+    margin-top: 40%;
+    margin-left: 30%;
+}
+.footer a{
+    color: #777;
+    text-decoration: none;
+}
